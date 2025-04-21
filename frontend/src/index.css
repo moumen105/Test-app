@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f5f5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.note-symbol {
+  font-size: 3rem;
+  margin: 1rem 0;
+}
+
+.result-card {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.time-value {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.logo {
+  max-width: 80px;
+  margin-right: 1rem;
+} 
